@@ -43,7 +43,6 @@
                 $weeklyNetPay = $netPay / 52;
                 
                 echo "<h3>Results:</h3>";
-                echo "Base Salary: $" . number_format($baseSalary, 2) . "<br>";
                 echo "Hourly Wages: $" . number_format($yearlyWages, 2) . " per year<br>";
                 echo "Total Yearly Income: $" . number_format($totalYearlyIncome, 2) . "<br>";
                 echo "Weekly Net Pay: $" . number_format($weeklyNetPay, 2) . "<br>";
