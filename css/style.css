@@ -1,4 +1,42 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Isaaq Simon
+* Created on: Mar 2025
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-JS-Salary-Program
 */
+
+body {
+    background-color: rgb(247, 4, 194);
+}
+
+h1 {
+    background-color: rgb(166, 16, 236);
+    color: hsl(184, 98%, 50%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #c8ff00;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+input,
+button {
+    margin: 10px 0;
+    padding: 10px;
+    width: 90%;
+}

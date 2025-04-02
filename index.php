@@ -2,18 +2,18 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="description" content="Salary, with JavaScript" />
+    <meta name="description" content="Salary, with PHP" />
     <meta name="keywords" content="Immaculata, ICD2O" />
     <meta name="author" content="Isaaq Simon" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (7)/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (7)/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (7)/favicon-16x16.png" />
-    <link rel="manifest" href="./favicon_io (7)/site.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (8)/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (8)/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (8)/favicon-16x16.png" />
+    <link rel="manifest" href="./favicon_io (8)/site.webmanifest" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.teal-lime.min.css" />
     <link rel="stylesheet" href="./css/style.css" />
-    <title>Salary Program, with JavaScript</title>
+    <title>Salary Program, with PHP</title>
   </head>
   <body>
     <div class="container">
