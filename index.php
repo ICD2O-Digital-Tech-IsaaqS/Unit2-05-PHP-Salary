@@ -19,9 +19,6 @@
     <div class="container">
         <h2>Salary Calculator</h2>
         <form method="post">
-            <label for="baseSalary">Base Salary ($ per year):</label>
-            <input type="number" name="baseSalary" step="0.01" required>
-            
             <label for="hours">Hours Worked per Week:</label>
             <input type="number" name="hours" step="0.01" required>
             
